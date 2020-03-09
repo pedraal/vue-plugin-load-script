@@ -1,9 +1,12 @@
 {
-  "name": "vue-plugin-load-script",
+  "name": "@pedraal/vue-plugin-load-script",
   "version": "1.2.0",
   "description": "A Vue plugin for injecting remote scripts",
   "main": "index.js",
-  "repository": "https://github.com/tserkov/vue-plugin-load-script",
-  "author": "tserkov <james.churchard@gmail.com>",
-  "license": "MIT"
+  "repository": "https://github.com/pedraal/vue-plugin-load-script",
+  "author": "pierre golfier <pgolfier.pro@gmail.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  }
 }
