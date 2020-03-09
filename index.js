@@ -40,4 +40,4 @@ const LoadScript = {
   },
 };
 
-export default LoadScript;
+module.exports = LoadScript;
